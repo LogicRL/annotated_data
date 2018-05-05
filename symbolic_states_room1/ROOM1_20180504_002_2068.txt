@@ -1,0 +1,8 @@
+(actorInRoom room_1)
+(actorOnSpot room_1 ladder_1)
+(actorWithKey)
+(doorExists room_1 door_1)
+(doorExists room_1 door_2)
+(monsterExists room_1 skull_1)
+
+
