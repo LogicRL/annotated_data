@@ -1,0 +1,5 @@
+(actorInRoom room_1)
+(actorOnSpot room_1 entrance_1)
+(doorExists room_1 door_2)
+
+

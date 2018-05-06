@@ -1,0 +1,7 @@
+(actorInRoom room_1)
+(actorOnSpot room_1 conveyor_1)
+(keyExists room_1 key_1)
+(doorExists room_1 door_1)
+(doorExists room_1 door_2)
+
+
